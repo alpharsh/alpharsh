@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Frontend Development**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Full Stack Development**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alpharsh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alpharsh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alpharsh) 
