@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
 
-A passionate Full Stack Developer diving deep into frontend development while also exploring cloud technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
+A passionate Full Stack Developer diving deep into frontend development while also exploring new technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
 
 I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.
 
@@ -10,10 +10,10 @@ I am always looking for opportunities to collaborate on new and innovative ideas
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/alpharsh" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=316c5e&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://alpharsh.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=316c5e&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
@@ -25,11 +25,18 @@ I am always looking for opportunities to collaborate on new and innovative ideas
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=316c5e&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=316c5e&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=52985b&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=framework"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=tailwindcss"/>
     <img src="https://img.shields.io/static/v1?label=|&message=C%2B%2B&color=52985b&style=plastic&logo=C%2B%2B"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=316c5e&style=plastic&logo=git"/>
 </p>
 
+<!--Snake animation -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ### UI/UX Tools:
 <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> <img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
