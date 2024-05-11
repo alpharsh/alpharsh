@@ -30,6 +30,10 @@ I am always looking for opportunities to collaborate on new and innovative ideas
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=316c5e&style=plastic&logo=git"/>
 </p>
 
+
+### UI/UX Tools:
+<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> <img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
+
 <!--Snake animation -->
 
 <picture>
@@ -37,9 +41,6 @@ I am always looking for opportunities to collaborate on new and innovative ideas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
 </picture>
-
-### UI/UX Tools:
-<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> <img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
