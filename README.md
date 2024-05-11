@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Tripathi</h1>
-<h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+A passionate Full Stack Developer diving deep into frontend development while also exploring cloud technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
 
-## Connect:
+I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.
+
+## Connect: 🤝🏻
 <p>
   <a href="https://www.linkedin.com/in/alpharsh/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
