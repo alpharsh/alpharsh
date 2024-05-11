@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=framework"/>
     <img src="https://img.shields.io/static/v1?label=|&message=C%2B%2B&color=2b625f&style=plastic&logo=C%2B%2B"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
 </p>
@@ -37,7 +37,7 @@
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
 <img  src="https://streak-stats.demolab.com?user=alpharsh&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=alpharsh&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharsh&hide_progress=false&langs_count=10&theme=aura&hide_border=true&layout=compact"/>
+<img width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharsh&hide_progress=false&langs_count=10&theme=aura&hide_border=true&layout=compact"/>
 </div>
 
 ## 🏆 GitHub Trophies
