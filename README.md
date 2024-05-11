@@ -16,7 +16,7 @@
   </a>
 </p>
 
-# 💻 Tech Stack:
+# 💻 Technology:
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
@@ -24,13 +24,14 @@
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=C/C'++'&color=2b625f&style=plastic&logo=c"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=C%2B%2B&color=2b625f&style=plastic&logo=C%2B%2B"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
 </p>
 
 
 ### UI/UX Tools:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/>
+<img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
