@@ -2,12 +2,12 @@
 
 A passionate Full Stack Developer diving deep into frontend development while also exploring new technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
 
-I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.
+I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me. Gmail: alpharsh1@gmail.com
 
 ## Connect: 🤝🏻
 <p>
   <a href="https://www.linkedin.com/in/alpharsh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=52985b&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/alpharsh" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=316c5e&style=plastic&logo=twitter&logo-color=white"/>
