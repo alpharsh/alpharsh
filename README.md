@@ -53,6 +53,6 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![](https://github-profile-trophy.vercel.app/?username=alpharsh&theme=radical&hide_border=true&no-frame=false&no-bg=&margin-w=4)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpharsh&label=Profile%20views&color=0e75b6&style=flat" alt="alpharsh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpharsh&label=Profile%20views&color=0e75b6&style=flat" alt="alpharsh" /> </p> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
