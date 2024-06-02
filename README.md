@@ -36,11 +36,11 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 <!--Snake animation -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/khardikk/khardikk/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
-</picture>
+</picture> -->
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
