@@ -2,8 +2,6 @@
 
 A passionate Full Stack Developer diving deep into frontend development while also exploring new technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
 
-I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me. Gmail: alpharsh1@gmail.com
-
 ## Connect: 🤝🏻
 <p>
   <a href="https://www.linkedin.com/in/alpharsh/" target="_blank">
@@ -44,9 +42,9 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
-<img  src="https://streak-stats.demolab.com?user=alpharsh&theme=aura&hide_border=true&card_width=550&border_radius=15"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=alpharsh&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github&show_icons=true&border_radius=15" alt="readme stats"/></br>
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharsh&hide_progress=false&langs_count=8&theme=aura&hide_border=true&layout=compact&card_width=400&border_radius=15"/>
+<img  src="https://streak-stats.demolab.com?user=alpharsh&theme=aura&hide_border=true&card_width=550&border_radius=8"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=alpharsh&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github&show_icons=true&border_radius=8" alt="readme stats"/></br>
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpharsh&hide_progress=false&langs_count=8&theme=aura&hide_border=true&layout=compact&card_width=400&border_radius=8"/>
 </div>
 
 ## GitHub Trophies 🏆
