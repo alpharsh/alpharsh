@@ -3,6 +3,7 @@
 A passionate Full Stack Developer, diving deep into frontend development while also exploring new technologies. I've been active in hackathons, meetups, and open-source projects, soaking up knowledge and sharing it wherever I can. Passionate about tech and always eager to learn!
 
 ## Connect: 🤝🏻
+
 <p>
   <a href="https://www.linkedin.com/in/alpharsh/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=52985b&style=plastic&logo=linkedin&logo-color=white"/>
@@ -28,11 +29,9 @@ A passionate Full Stack Developer, diving deep into frontend development while a
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=316c5e&style=plastic&logo=git"/>
 </p>
 
-
 ### UI/UX Tools:
-<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> 
-<img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=52985b&style=plastic&logo=postman"/>
-<img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/> 
+
+<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=52985b&style=plastic&logo=postman"/> <img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
 
 <!--Snake animation -->
 
@@ -50,9 +49,19 @@ A passionate Full Stack Developer, diving deep into frontend development while a
 </div>
 
 ## GitHub Trophies 🏆
+
 ![](https://github-profile-trophy.vercel.app/?username=alpharsh&theme=radical&hide_border=true&no-frame=false&no-bg=&margin-w=4)
 
 ---
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpharsh&label=Profile%20views&color=0e75b6&style=flat" alt="alpharsh" /> </p> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>	
+ <summary><b>My GSSOC(24) Badges</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+</a>
+</div>
+</details>
