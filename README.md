@@ -30,7 +30,9 @@ A passionate Full Stack Developer diving deep into frontend development while al
 
 
 ### UI/UX Tools:
-<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> <img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/>
+<img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=52985b&style=plastic&logo=figma"/> 
+<img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=52985b&style=plastic&logo=postman"/>
+<img src="https://img.shields.io/static/v1?label=|&message=CANVA&color=52985b&style=plastic&logo=canva"/> 
 
 <!--Snake animation -->
 
